@@ -46,18 +46,9 @@ Developed an “Intelligent Animal Detection & Driver Warning System” integrat
 📜 **ISASTECH 2025 Research Recognition**  
 Published paper on improving road safety using **AI-based vision systems** for stray animal detection in Türkiye.  
 
----
-
-### 🌍 Languages  
-🇬🇧 English — B2  
-🇩🇪 German — A2  
-🇹🇷 Turkish — Native  
+--- 
 
 ---
 
 ### 📫 Connect With Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/batuhanarslan97/)  
-
----
-
-> _“Building reliable embedded intelligence that drives the future of mobility.”_  
