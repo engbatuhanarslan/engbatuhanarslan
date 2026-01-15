@@ -41,7 +41,7 @@ Currently working at **Anadolu Isuzu** as an **R&D Software Engineer**, where I 
 
 ### 🏆 Achievements  
 🏅 **2nd Place – Eclipse SDV Hackathon 2025 (Berlin)**  
-Developed an “Intelligent Animal Detection & Driver Warning System” integrated into a Software-Defined Vehicle architecture.  
+Developed an “Driver Mood Detection” integrated into a Software-Defined Vehicle architecture.  
 
 📜 **ISASTECH 2025 Research Recognition**  
 Published paper on improving road safety using **AI-based vision systems** for stray animal detection in Türkiye.  
