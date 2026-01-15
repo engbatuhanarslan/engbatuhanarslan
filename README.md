@@ -48,7 +48,5 @@ Published paper on improving road safety using **AI-based vision systems** for s
 
 --- 
 
----
-
 ### 📫 Connect With Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/batuhanarslan97/)  
